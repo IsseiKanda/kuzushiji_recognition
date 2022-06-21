@@ -6,6 +6,6 @@
 Kuzushiji Recognition - Kaggle -
 https://www.kaggle.com/competitions/kuzushiji-recognition
 
-The goal of this project is to make a classifying model for Kauzushiji.
+Generate segmented label image 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
