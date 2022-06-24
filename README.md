@@ -6,6 +6,6 @@
 Kuzushiji Recognition - Kaggle -
 https://www.kaggle.com/competitions/kuzushiji-recognition
 
-Generate segmented label image 
+Generate segmented label images
 
 <p align="right">(<a href="#top">back to top</a>)</p>
